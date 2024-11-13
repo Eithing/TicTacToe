@@ -15,7 +15,7 @@ Ce projet est une implémentation simple du jeu de Tic-Tac-Toe en utilisant Kotl
 
 ## Installation
 Clonez ce dépôt GitHub sur votre machine locale :
-git clone https://github.com/[VotreNomUtilisateur]/TicTacToe.git
+git clone https://github.com/Eithing/TicTacToe.git
 Ouvrez le projet dans Android Studio :
 Sélectionnez File > Open... puis accédez au dossier du projet cloné.
 Synchronisez le projet avec Gradle si nécessaire.
