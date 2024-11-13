@@ -33,6 +33,6 @@ Le premier joueur à aligner trois symboles identiques (horizontalement, vertica
 Un message s'affiche pour annoncer le gagnant.
 
 ## Structure du Code
-MainActivity : Activité principale de l'application, contenant le composable TicTacToeGame qui gère l'affichage de la grille de jeu.
-TicTacToeGame : Composable principal qui affiche la grille de jeu et gère la logique du Tic-Tac-Toe.
-checkWinner : Fonction qui vérifie si un joueur a remporté la partie en alignant trois symboles identiques.
+- MainActivity : Activité principale de l'application, contenant le composable TicTacToeGame qui gère l'affichage de la grille de jeu.
+- TicTacToeGame : Composable principal qui affiche la grille de jeu et gère la logique du Tic-Tac-Toe.
+- checkWinner : Fonction qui vérifie si un joueur a remporté la partie en alignant trois symboles identiques.
